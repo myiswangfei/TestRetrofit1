@@ -19,6 +19,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//上传代码的时候，先更新
+//        我就修改了一个文字而已
+//        添加了两行注释
+
 
 //        testRetrofit();
         testRxJava();
